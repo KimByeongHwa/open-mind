@@ -219,6 +219,8 @@ function Pagenation({currentPageBlock, totalPageBlock, totalPage, setPage, page}
 
 마지막으로 화살표를 누를 시 페이지 계산을 해서 페이지 블록 이동과 첫번째와 마지막 페이지로 이동하는 함수를 실행시키도록 하였다.
 
+<br>
+
 # 기타 사항
 
 ### 커밋 규칙
